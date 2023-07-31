@@ -1,4 +1,4 @@
-# Laddu Notion
+# Notion Api test
 Create a quick CRUD API service and Swagger API playground for your notion database.
 Good for building internal dashboards, mock api servers, 3rd party webhook integrations.
 
